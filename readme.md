@@ -7,7 +7,7 @@ Cuando termines incluye las respuestas dentro de un readme, y luego súbelos a u
 
 Ejercicios
 
-<!-- 1.Identifica por qué el archivo javascript no se carga -->
+1.Identifica por qué el archivo javascript no se carga
 
 <!DOCTYPE html>
 <html>
@@ -22,7 +22,7 @@ Ejercicios
 </html>
 alert("hola");
 
-<!-- 2.¿Qué valor da la siguiente variable? ¿Por qué da ese valor? -->
+2.¿Qué valor da la siguiente variable? ¿Por qué da ese valor?
 
 <!DOCTYPE html>
 <html>
@@ -38,7 +38,7 @@ alert("hola");
   </body>
 </html>
 
-<!-- 3.¿Cuál es el valor de la siguiente suma? -->
+3.¿Cuál es el valor de la siguiente suma?
 
 <!DOCTYPE html>
 <html>
@@ -54,7 +54,7 @@ alert("hola");
   </body>
 </html>
 
-<!-- 4.Descubre cúales eson los errores en el siguiente código: -->
+4.Descubre cúales eson los errores en el siguiente código:
 
 <!DOCTYPE html>
 <html>
@@ -69,7 +69,7 @@ alert("hola");
   </body>
 </html>
 
-<!-- 5.Identifica el problema del siguiente código: -->
+5.Identifica el problema del siguiente código:
 
 <!DOCTYPE html>
 <html>
